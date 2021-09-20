@@ -17,7 +17,7 @@
 お酒を買いに行く時など。
 ## 設計書
 順次更新予定
-file:///Users/akasakayuuryou/Downloads/Untitled%20Diagram.drawio.html
+https://app.diagrams.net/#G1buprunSKBNT4E5c-X92T45Z18O86S2KI
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1mJ_U1r7255zuwLV_ABUEBKY3q7_dfTF3tHvl1JyQ7Cs/edit#gid=0
