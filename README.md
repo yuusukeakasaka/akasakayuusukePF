@@ -25,7 +25,8 @@
 ## 設計書
 順次更新予定<br>
 https://app.diagrams.net/#G1buprunSKBNT4E5c-X92T45Z18O86S2KI <br>
-https://drive.google.com/file/d/1rKxIlHcmFPxPydvXEuPT56ASrFFAH2Xn/view?usp=sharing
+https://drive.google.com/file/d/1rKxIlHcmFPxPydvXEuPT56ASrFFAH2Xn/view?usp=sharing <br>
+https://app.diagrams.net/#G16D9tYuHWVqEtWhK_PTNl5pyQBkxO8rUs
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1mJ_U1r7255zuwLV_ABUEBKY3q7_dfTF3tHvl1JyQ7Cs/edit#gid=0
